@@ -1,2 +1,1 @@
-# WEB-TECHNOLOGIES
-Assignment 1
+# inex.html
