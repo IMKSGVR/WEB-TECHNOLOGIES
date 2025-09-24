@@ -1,1 +1,1 @@
-# inex.html
+# index.html
